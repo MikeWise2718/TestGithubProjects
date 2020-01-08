@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SphereInfo : MonoBehaviour
 {
-    public string version = "V1.0";
+    public string version = "v1.0.0";
     public int updatecount = 0;
     // Start is called before the first frame update
     void Start()
